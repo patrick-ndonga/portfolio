@@ -30,4 +30,86 @@ body {
   margin: 0 auto;
   color: #fff;
 }
+.overlay img {
+  width:15vw;
+  height:15vw;
+  border-radius: 50%;
+  float: right;
+  margin-right: 9%;
+}
+.tm-about {
+  text-align: center;
+  margin-right:20%;
+  margin-left: 20%;
+}
+.tm-about p {
+  font-size: 1.5rem;
+}
+.tm-coding {
+  text-align: center;
+  margin:0 20%;
+}
+.tm-coding p{
+  font-size: 1.5rem;
+
+}
+
+h1 {
+  text-align: center;
+}
+.tm-hobbies {
+  display: flex;
+  justify-content: center;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+
+#hobbies1 {
+  background-image: url('https://images.pexels.com/photos/33478/golf-sunset-sport-golfer.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  width: 26%;
+  height: 200px;
+  background-size: cover;
+  margin: 10px;
+}
+
+#hobbies2 {
+  background-image: url('https://images.pexels.com/photos/274974/pexels-photo-274974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  width: 26%;
+  height: 200px;
+  background-size: cover;
+  margin: 10px;
+}
+
+#hobbies3 {
+  background-image: url('https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  width: 26%;
+  height: 200px;
+  background-size: cover;
+  margin: 10px;
+}
+
+.tm-hobbies p,h3 {
+  color: white;
+  text-align: center;
+}
+
+.tm-footer {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
