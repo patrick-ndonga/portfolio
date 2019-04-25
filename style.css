@@ -48,9 +48,12 @@ body {
 .tm-coding {
   text-align: center;
   margin:0 20%;
+  
+  
 }
-.tm-coding p{
+.tm-coding ul{
   font-size: 1.5rem;
+  list-style: none;
 
 }
 
@@ -63,6 +66,7 @@ h1 {
   max-width: 80%;
   margin: 0 auto;
 }
+
 
 
 #hobbies1 {
@@ -92,6 +96,10 @@ h1 {
 .tm-hobbies p,h3 {
   color: white;
   text-align: center;
+}
+
+.tm-footer p,i {
+  font-size: 1.5rem;
 }
 
 .tm-footer {
